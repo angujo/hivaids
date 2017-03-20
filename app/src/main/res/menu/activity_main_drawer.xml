@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tags"
+            android:icon="@drawable/ic_tag"
+            android:title="Tags" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_black_18dp"
+            android:title="About HIV" />
+        <item
+            android:id="@+id/nav_abc"
+            android:icon="@drawable/ic_format_shapes_black_18dp"
+            android:title="ABCs of HIV" />
+        <item
+            android:id="@+id/nav_learn"
+            android:icon="@drawable/ic_school_black_18dp"
+            android:title="Learn" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_library_books_black_18dp"
+            android:title="News &amp; Events" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_chat"
+                android:icon="@drawable/ic_question_answer_black_18dp"
+                android:title="Chat" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Email Us" />
+        </menu>
+    </item>
+
+</menu>

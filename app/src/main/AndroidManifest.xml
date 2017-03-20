@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.devindicator.hivaids">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".app.AppController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".ChatActivity"
+            android:label="@string/title_activity_chat"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChatLayout"
+            android:label="@string/title_activity_chat_layout"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AbcActivity"
+            android:label="@string/title_activity_abc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NewsActivity"
+            android:label="@string/title_activity_news"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LinkViewActivity"
+            android:label="@string/title_activity_link_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CategoriesActivity"
+            android:label="@string/title_activity_categories"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MasonryActivity"
+            android:label="@string/title_activity_masonry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!-- android:theme="@style/FullScreenTheme" -->
+        <activity
+            android:name=".LoaderActivity"
+            android:label="@string/title_activity_loader"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+
+            <!-- android:theme="@style/AppTheme.NoActionBar" -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ArticleActivity"
+            android:label="@string/title_activity_articles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ArticleListActivity"
+            android:label="@string/title_activity_article_list"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

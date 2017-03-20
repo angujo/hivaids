@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="fill_horizontal|center"
+    android:paddingRight="5dp"
+    android:paddingLeft="5dp">
+
+    <FrameLayout
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:padding="5dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/img_holder"
+            android:id="@+id/nrImage"
+            android:src="@drawable/img_holder" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="HIV/AIDS Vaccine on its way..."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nrTitle"
+            android:textStyle="normal|bold"
+            android:textSize="16sp"
+            android:textColor="@color/TextColor" />
+
+        <TextView
+            android:text="CNN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nrSource"
+            android:textSize="15sp"
+            android:textColor="@color/TextColor" />
+
+        <TextView
+            android:text="08/12/2017"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nrDated"
+            android:textStyle="normal|italic"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/TextColor"
+            android:textAlignment="textEnd"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

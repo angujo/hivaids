@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">HIV/AIDS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_chat_layout">ChatLayout</string>
+    <string name="title_activity_abc">AbcActivity</string>
+    <string name="large_text">
+        <h1>ABC of HIV Prevention</h1>\n
+\n
+HIV can be transmitted in the sexual fluids, blood or breast milk of an infected person. HIV prevention therefore involves a wide range of activities including prevention of mother-to-child transmission, harm reduction for injecting drug users, and precautions for health care workers.\n
+\n
+This page looks at strategies for preventing sexual transmission of HIV, and in particular the much-discussed "ABC" approach. So what exactly is the ABC approach, why does it cause such controversy, and does it work?\n
+\n
+What exactly is the ABC approach?\n
+\n
+One of the difficulties with the ABC approach is the lack of a clear definition. The slogan seems to have first been adopted by the Botswana government in the late 1990s. Seen on billboards around the country it exalted the fact that:\n
+\n
+"Avoiding AIDS as easy as…\nA bstain\n
+B e faithful\n
+C ondomise"\n
+Was this saying something new?\n
+\n
+Since the late 1980s it had been known that individuals could take action to either reduce or avoid altogether the risk of becoming infected with HIV through sexual transmission.\n
+\n
+The risk could be avoided altogether by avoiding any sexual activities that could cause transmission of HIV (i.e. Abstain).\n
+\n
+The risk could also be reduced, through avoiding sexual intercourse other than with a mutually faithful uninfected partner (i.e. Be faithful) or through the correct and consistent use of condoms (i.e.Condomise).\n
+\n
+So Botswana hadn’t really developed a new approach to HIV prevention, but rather a new way of putting across known risk reduction and risk avoidance strategies.\n
+\n
+Was this controversial?\n
+\n
+The ABC definition adopted by Botswana was not particularly controversial. It was primarily a slogan used as part of a general public AIDS awareness campaign, and it did not attempt to define the circumstances under which the component parts of A, B and C would be promoted and whom they would be promoted to.\n
+\n
+But since the use of this slogan in Botswana there have been other variations which have more specific definitions, most notably those adopted by the US-funded PEPFAR initiative, and others adopted by UNAIDS.\n
+\n
+What is the PEPFAR definition of ABC?\n
+\n
+PEPFAR follows an ABC strategy through "population-specific interventions" that emphasise:\n
+\n
+A bstinence for youth, including the delay of sexual debut and abstinence until marriage\n
+B eing tested for HIV and being faithful in marriage and monogamous relationships\n
+C orrect and consistent use of condoms for those who practice high-risk behaviours.\n
+Those who practice high-risk behaviours include "prostitutes, sexually active discordant couples (in which one partner is known to have HIV), substance abusers, and others". The PEPFAR definition does not include the promotion of condoms to young people in general. However, PEPFAR does say that its funds may be used to support programmes that deliver age-appropriate "ABC information" for young people, provided they are informed about failure rates of condoms, and provided the programmes do not appear to present abstinence and condom use as equally viable, alternative choices.\n
+\n
+And what is the UNAIDS definition of ABC?\n
+\n
+For UNAIDS, ABC means:\n
+\n
+A bstinence or delaying first sex\n
+B eing safer by being faithful to one partner or by reducing the number of sexual partners\n
+C orrect and consistent use of condoms for sexually active young people, couples in which one partner is HIV-positive, sex workers and their clients, and anyone engaging in sexual activity with partners who may have been at risk of HIV exposure.\n
+So what is the controversy about?\n
+\n
+The controversy arises from the differences between these two definitions of ABC, and in particular the fact that with the PEPFAR definition there is no promotion of condoms for young people (or anyone else outside the "high risk groups"), and that with abstinence the emphasis is on abstaining until marriage.\n
+\n
+If, in countries where there is a high prevalence of HIV infection resulting from sexual transmission, young people delay having sex for the first time, then this risk avoidance will indeed result in them avoiding infection whilst they are adopting this approach.\n
+\n
+However, abstinence until marriage does not always ensure safety, because marriage in itself provides no protection from infection. Many people are unsure of the HIV status of their partners, and those who are faithful cannot be certain that their partner is maintaining the same commitment.\n
+\n
+Abstinence is not a realistic option for the millions of women and girls who are in abusive relationships, or those who have been taught always to obey men. People who do not abstain should do everything possible to reduce risk, including using condoms.\n
+\n
+"condoms, when distributed with educational materials as part of a comprehensive prevention package, have been shown to significantly lower sexual risk and activity, both among those already sexually active and those who are not." – UNAIDS, October 2004.\n
+\n
+A large number of AIDS organisations and experts have voiced concern that PEPFAR is putting too much emphasis on abstinence until marriage, and is not doing enough to make young people aware that condoms, if used correctly and consistently, are highly effective at preventing HIV infection.\n
+\n
+Why is Uganda so often mentioned in relation to the ABC of HIV prevention?\n
+\n
+The ABC approach to HIV prevention is often said to have started in Uganda, and it is said by some people to have been the reason for Uganda’s unique success in reducing its HIV prevalence (defined as the proportion of adults living with HIV).\n
+\n
+What happened in Uganda?\n
+\n
+When HIV was rapidly spreading through the population of Uganda in the late 1980s, President Yoweri Museveni, unlike most other African leaders at the time, recognised the danger and took swift action showing forceful leadership. Uganda’s response was powerful and wide-ranging. The government launched an aggressive media campaign involving posters, radio messages and rallies; they trained teachers to begin effective HIV and AIDS education; and – most importantly – they mobilised community leaders, churches and indeed the public in general.\n
+\n
+The government worked alongside many independent organisations, using different messages to address different groups of people according to their needs as well as their ability to respond. Young people were encouraged to wait before first having sex, or to return to abstinence if they were not virgins. All sexually active people were given the message of "zero grazing", which meant staying with regular partners and not having casual sex. Those who did not abstain were encouraged to use condoms, which were promoted to the population as a whole.\n
+\n
+In order to encourage people to take up such strategies – and to make them effective – action was taken to encourage candid discussion of HIV and AIDS, to reduce stigma, to better the status of women, to improve testing facilities, to treat other sexually transmitted infections and to provide better care for those already infected. Fear was also a part of the strategy, but the campaigns explained how to avoid or reduce risk and so not be overtaken by fear.\n
+\n
+What worked in Uganda?\n
+\n
+What appears to have worked in Uganda was a combination of risk avoidance and risk reduction approaches. These resulted in a fall in the annual number of new infections between the late 1980s and mid 1990s, which in turn led to a reduction in HIV prevalence. In later years, an increase in the death rate probably made a contribution to further declines in prevalence, while the number of new infections remained more or less unchanged.\n
+\n
+What has been particularly important in Uganda has been the combination of messages and approaches that have been used, including the widespread promotion and distribution of condoms. During the 1990s, schemes funded by USAID and other donors greatly increased condom use.\n
+\n
+"The ABC approach in Uganda was and still is more than just abstinence and needs to be balanced without any emphasis on one aspect. Neither "A" nor "B" nor "C" on its own can provide the answer to reducing risk of infection that is practical for every member of the population." – Dr Stella Talisuna, March 2005.\n
+\n
+How does this relate to PEPFAR?\n
+\n
+For a while after being popularised in Botswana in the late 1990s, the term ABC of HIV prevention was little used elsewhere. But then, in December 2002, it was decided that America’s approach to the prevention of sexual HIV transmission would in future be described as ABC. This decision appears to have been largely based on, and is now being promoted and is justified on, the basis that ABC was what worked in Uganda. But the simple catchphrase "ABC" cannot sufficiently describe what happened in Uganda.\n
+\n
+Without doubt measures to promote abstinence, fidelity and condom use are all essential to any comprehensive HIV prevention programme – but they alone are not enough. Also required is strong political commitment, frank and open discourse, community mobilisation and involvement of local organisations and businesses, as well as practical measures such as HIV testing and counselling, treatment of STIs, campaigns to combat stigma and discrimination, and efforts to promote gender equality. It seems misleading and inappropriate to use the example of Uganda, which employed such a comprehensive programme, to justify or promote any one particular definition of "ABC".
+    </string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_link_view">LinkViewActivity</string>
+    <string name="title_activity_categories">CategoriesActivity</string>
+    <string name="title_activity_masonry">MasonryActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_loader">LoaderActivity</string>
+    <string name="title_activity_articles">ArticlesActivity</string>
+    <string name="title_activity_article_list">ArticleListActivity</string>
+</resources>
